@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilnurkoo-pc\\Desktop\\c#_sakutin\\1_Система_урона_56.58\\1_Система_урона_56.58.csproj",
+      "projectUniqueName": "C:\\Users\\ilnurkoo-pc\\Desktop\\csharp_learn\\1_Queue\\1_Система_урона_56.58.csproj",
       "projectName": "1_Система_урона_56.58",
-      "projectPath": "C:\\Users\\ilnurkoo-pc\\Desktop\\c#_sakutin\\1_Система_урона_56.58\\1_Система_урона_56.58.csproj",
+      "projectPath": "C:\\Users\\ilnurkoo-pc\\Desktop\\csharp_learn\\1_Queue\\1_Система_урона_56.58.csproj",
       "packagesPath": "C:\\Users\\ilnurkoo-pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilnurkoo-pc\\Desktop\\c#_sakutin\\1_Система_урона_56.58\\obj\\",
+      "outputPath": "C:\\Users\\ilnurkoo-pc\\Desktop\\csharp_learn\\1_Queue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilnurkoo-pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
