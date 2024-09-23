@@ -1,0 +1,15 @@
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\obj\Debug\net8.0\5_broken_incaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\obj\Debug\net8.0\5_broken_incaps.AssemblyInfoInputs.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\obj\Debug\net8.0\5_broken_incaps.AssemblyInfo.cs
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\obj\Debug\net8.0\5_broken_incaps.csproj.CoreCompileInputs.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\obj\Debug\net8.0\5_broken_incaps.sourcelink.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\bin\Debug\net8.0\5_broken_incaps.exe
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\bin\Debug\net8.0\5_broken_incaps.deps.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\bin\Debug\net8.0\5_broken_incaps.runtimeconfig.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\bin\Debug\net8.0\5_broken_incaps.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\bin\Debug\net8.0\5_broken_incaps.pdb
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\obj\Debug\net8.0\5_broken_incaps.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\obj\Debug\net8.0\refint\5_broken_incaps.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\obj\Debug\net8.0\5_broken_incaps.pdb
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\obj\Debug\net8.0\5_broken_incaps.genruntimeconfig.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\5_broken_incaps\obj\Debug\net8.0\ref\5_broken_incaps.dll
