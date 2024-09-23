@@ -1,0 +1,15 @@
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\bin\Debug\net8.0\4_properties.exe
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\bin\Debug\net8.0\4_properties.deps.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\bin\Debug\net8.0\4_properties.runtimeconfig.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\bin\Debug\net8.0\4_properties.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\bin\Debug\net8.0\4_properties.pdb
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\obj\Debug\net8.0\4_properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\obj\Debug\net8.0\4_properties.AssemblyInfoInputs.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\obj\Debug\net8.0\4_properties.AssemblyInfo.cs
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\obj\Debug\net8.0\4_properties.csproj.CoreCompileInputs.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\obj\Debug\net8.0\4_properties.sourcelink.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\obj\Debug\net8.0\4_properties.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\obj\Debug\net8.0\refint\4_properties.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\obj\Debug\net8.0\4_properties.pdb
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\obj\Debug\net8.0\4_properties.genruntimeconfig.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\4_properties\obj\Debug\net8.0\ref\4_properties.dll
