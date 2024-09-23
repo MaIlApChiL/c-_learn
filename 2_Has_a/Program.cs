@@ -1,12 +1,19 @@
 ﻿using System;
 using System.Linq;
 using System.Collections.Generic;
-
+// То что класс Board имеет в себе класс Task, а Task имеет в себе класс Performer, и является связью Has-A
 class Program
 {
     static void Main()
     {
-        
+        Performer worker1 = new Performer("Артём");
+        Performer worker2 = new Performer("Игорь");
+
+        Task[] tasks = { new Task(worker1, "Создать БД"), new Task(worker2, "Составить схему")};
+
+        Board schedule = new Board(tasks);
+
+        schedule.ShowAllTasks();
     }
 }
 
@@ -22,10 +29,35 @@ class Performer
 
 class Board
 {
+    public Task[] Tasks;
 
+    public Board(Task[] tasks)
+    {
+        Tasks = tasks;
+    }
+
+    public void ShowAllTasks()
+    {
+        for (int i = 0; i < Tasks.Length; i++)
+        {
+            Tasks[i].ShowInfo();
+        }
+    }
 }
 
 class Task
 {
+    public Performer Worker;
+    public string Description;
 
+    public Task(Performer worker, string description)
+    {
+        Worker = worker;
+        Description = description;
+    }
+
+    public void ShowInfo()
+    {
+        Console.WriteLine($"Ответственный: {Worker.Name}\nОписание задачи: {Description}.\ns");
+    }
 }

@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ilnurkoo-pc\\.nuget\\packages\\": {}
+    "C:\\Users\\Ordur-notebook\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilnurkoo-pc\\Desktop\\csharp_learn\\1_Queue\\1_Система_урона_56.58.csproj",
+      "projectUniqueName": "C:\\Users\\Ordur-notebook\\Desktop\\c#_learn\\2_Has-a\\1_Система_урона_56.58.csproj",
       "projectName": "1_Система_урона_56.58",
-      "projectPath": "C:\\Users\\ilnurkoo-pc\\Desktop\\csharp_learn\\1_Queue\\1_Система_урона_56.58.csproj",
-      "packagesPath": "C:\\Users\\ilnurkoo-pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilnurkoo-pc\\Desktop\\csharp_learn\\1_Queue\\obj\\",
+      "projectPath": "C:\\Users\\Ordur-notebook\\Desktop\\c#_learn\\2_Has-a\\1_Система_урона_56.58.csproj",
+      "packagesPath": "C:\\Users\\Ordur-notebook\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ordur-notebook\\Desktop\\c#_learn\\2_Has-a\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ilnurkoo-pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ordur-notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
