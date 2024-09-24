@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5_broken_incaps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4323e0de3026d9ca9bdad08e95880b49e79ffa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+062ea1a2471a0ea2760ae590013c8eace3abbf4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("5_broken_incaps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5_broken_incaps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

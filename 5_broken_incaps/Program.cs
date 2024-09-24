@@ -26,7 +26,7 @@ class Program
         
         for (int i = 0; i <  cart.GetProductsCount(); i++)
         {
-            Console.Write($" {products1.Name} ");
+            Console.Write($" !{products1[i].Name}! ");
         }
 
         Console.WriteLine();
@@ -67,7 +67,7 @@ class Cart
 
     public List<Product> GetProducts()
     {
-        List<Products> products = new List<Products>();
+        List<Product> products = new List<Product>();
         for (int i = 0; i < GetProductsCount(); i++)
         {
             products.Add(GetProductByIndex(i));
