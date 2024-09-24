@@ -9,8 +9,28 @@ class Program
         Cart cart = new Cart();
         cart.ShowProducts();
 
-        List<Product> products = new 
+        List<Product> products = new List<Product>();
 
+        for (int i = 0; i <  cart.GetProductsCount(); i++)
+        {
+            products.Add(cart.GetProductByIndex(i));
+        }
+
+        products.RemoveAt(0);
+
+        Console.WriteLine();
+        cart.ShowProducts();
+
+        List<Product> products1 = cart.GetProducts();
+
+        
+        for (int i = 0; i <  cart.GetProductsCount(); i++)
+        {
+            Console.Write($" {products1.Name} ");
+        }
+
+        Console.WriteLine();
+        cart.ShowProducts();
     }
 }
 
@@ -35,9 +55,24 @@ class Cart
         }
     }
 
+    public int GetProductsCount()
+    {
+        return _products.Count;
+    }
+
     public Product GetProductByIndex(int index)
     {
         return _products.ElementAt(index);
+    }
+
+    public List<Product> GetProducts()
+    {
+        List<Products> products = new List<Products>();
+        for (int i = 0; i < GetProductsCount(); i++)
+        {
+            products.Add(GetProductByIndex(i));
+        }
+        return products;
     }
 }
 
