@@ -1,0 +1,15 @@
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\obj\Debug\net8.0\8_update_cycle_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\obj\Debug\net8.0\8_update_cycle_pattern.AssemblyInfoInputs.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\obj\Debug\net8.0\8_update_cycle_pattern.AssemblyInfo.cs
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\obj\Debug\net8.0\8_update_cycle_pattern.csproj.CoreCompileInputs.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\obj\Debug\net8.0\8_update_cycle_pattern.sourcelink.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\bin\Debug\net8.0\8_update_cycle_pattern.exe
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\bin\Debug\net8.0\8_update_cycle_pattern.deps.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\bin\Debug\net8.0\8_update_cycle_pattern.runtimeconfig.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\bin\Debug\net8.0\8_update_cycle_pattern.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\bin\Debug\net8.0\8_update_cycle_pattern.pdb
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\obj\Debug\net8.0\8_update_cycle_pattern.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\obj\Debug\net8.0\refint\8_update_cycle_pattern.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\obj\Debug\net8.0\8_update_cycle_pattern.pdb
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\obj\Debug\net8.0\8_update_cycle_pattern.genruntimeconfig.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\8_update_cycle_pattern\obj\Debug\net8.0\ref\8_update_cycle_pattern.dll
