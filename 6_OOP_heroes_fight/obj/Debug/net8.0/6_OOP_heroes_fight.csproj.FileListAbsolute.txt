@@ -1,0 +1,15 @@
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\obj\Debug\net8.0\6_OOP_heroes_fight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\obj\Debug\net8.0\6_OOP_heroes_fight.AssemblyInfoInputs.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\obj\Debug\net8.0\6_OOP_heroes_fight.AssemblyInfo.cs
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\obj\Debug\net8.0\6_OOP_heroes_fight.csproj.CoreCompileInputs.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\obj\Debug\net8.0\6_OOP_heroes_fight.sourcelink.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\bin\Debug\net8.0\6_OOP_heroes_fight.exe
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\bin\Debug\net8.0\6_OOP_heroes_fight.deps.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\bin\Debug\net8.0\6_OOP_heroes_fight.runtimeconfig.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\bin\Debug\net8.0\6_OOP_heroes_fight.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\bin\Debug\net8.0\6_OOP_heroes_fight.pdb
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\obj\Debug\net8.0\6_OOP_heroes_fight.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\obj\Debug\net8.0\refint\6_OOP_heroes_fight.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\obj\Debug\net8.0\6_OOP_heroes_fight.pdb
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\obj\Debug\net8.0\6_OOP_heroes_fight.genruntimeconfig.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\6_OOP_heroes_fight\obj\Debug\net8.0\ref\6_OOP_heroes_fight.dll

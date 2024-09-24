@@ -1,0 +1,15 @@
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\bin\Debug\net8.0\7_virtual_methods.exe
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\bin\Debug\net8.0\7_virtual_methods.deps.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\bin\Debug\net8.0\7_virtual_methods.runtimeconfig.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\bin\Debug\net8.0\7_virtual_methods.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\bin\Debug\net8.0\7_virtual_methods.pdb
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\obj\Debug\net8.0\7_virtual_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\obj\Debug\net8.0\7_virtual_methods.AssemblyInfoInputs.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\obj\Debug\net8.0\7_virtual_methods.AssemblyInfo.cs
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\obj\Debug\net8.0\7_virtual_methods.csproj.CoreCompileInputs.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\obj\Debug\net8.0\7_virtual_methods.sourcelink.json
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\obj\Debug\net8.0\7_virtual_methods.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\obj\Debug\net8.0\refint\7_virtual_methods.dll
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\obj\Debug\net8.0\7_virtual_methods.pdb
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\obj\Debug\net8.0\7_virtual_methods.genruntimeconfig.cache
+C:\Users\ilnurkoo-pc\Desktop\csharp_learn\7_virtual_methods\obj\Debug\net8.0\ref\7_virtual_methods.dll
