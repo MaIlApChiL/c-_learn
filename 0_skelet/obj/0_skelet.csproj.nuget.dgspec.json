@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilnurkoo-pc\\Desktop\\csharp_learn\\0_skelet\\0_skelet.csproj": {}
+    "C:\\Users\\Ordur-notebook\\Desktop\\csharp_learn\\0_skelet\\0_skelet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilnurkoo-pc\\Desktop\\csharp_learn\\0_skelet\\0_skelet.csproj": {
+    "C:\\Users\\Ordur-notebook\\Desktop\\csharp_learn\\0_skelet\\0_skelet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilnurkoo-pc\\Desktop\\csharp_learn\\0_skelet\\0_skelet.csproj",
+        "projectUniqueName": "C:\\Users\\Ordur-notebook\\Desktop\\csharp_learn\\0_skelet\\0_skelet.csproj",
         "projectName": "0_skelet",
-        "projectPath": "C:\\Users\\ilnurkoo-pc\\Desktop\\csharp_learn\\0_skelet\\0_skelet.csproj",
-        "packagesPath": "C:\\Users\\ilnurkoo-pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilnurkoo-pc\\Desktop\\csharp_learn\\0_skelet\\obj\\",
+        "projectPath": "C:\\Users\\Ordur-notebook\\Desktop\\csharp_learn\\0_skelet\\0_skelet.csproj",
+        "packagesPath": "C:\\Users\\Ordur-notebook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ordur-notebook\\Desktop\\csharp_learn\\0_skelet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ilnurkoo-pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ordur-notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
